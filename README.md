@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KatieEppsHayward
-- 👀 I’m interested in design and architecture
+- 👀 I’m interested in clean code, SOLID design principles, domain-driven design, and scalable architecture
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on AWS
 - ⚡ Fun fact: ...
